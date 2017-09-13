@@ -1,4 +1,5 @@
-/* PEDRO MASCHIO; KLEYSSON SOUZA; LEONAN RAMOS. DATE: 12/10/2016
+/* PEDRO DE TORRES MASCHIO
+   DATE: 12/10/2016
    All rights reserved.
 */
 import javax.swing.JOptionPane;
