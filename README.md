@@ -1,1 +1,1 @@
-Este programa permite calcular o peso e/ou a distância necessária para que uma alavanca fique em equilíbrio.
+This program allows you to calculate the weight and/or the distance needed to make a lever stay in balance.
